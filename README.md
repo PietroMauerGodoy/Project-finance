@@ -246,3 +246,7 @@ Data,Descricao,Categoria,Instituicao,Tipo,Valor
 ## Licença
 
 MIT — sinta-se livre para usar, modificar e distribuir.
+
+---
+
+Desenvolvido por **Pietro Mauer Godoy**
